@@ -15,3 +15,12 @@ func Fibonacci(n int) int {
 	}
 	return Fibonacci(n-1) + Fibonacci(n-2)
 }
+
+// SmartFibonacci use looping instead
+func SmartFibonacci(n int) int {
+	a, b := 0, 1
+	for i := 1; i < n; i++ {
+		a, b = b, a+b
+	}
+	return b
+}
