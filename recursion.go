@@ -1,4 +1,4 @@
-package main
+package algorithm
 
 // Factorial (https://en.wikipedia.org/wiki/Factorial)
 func Factorial(n int) int {
