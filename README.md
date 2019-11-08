@@ -1,4 +1,5 @@
-[![Actions Status](https://github.com/andrysds/algorithm/workflows/test/badge.svg)](https://github.com/andrysds/algorithm/actions)
+![](https://github.com/andrysds/algorithm/workflows/.github/workflows/test.yml/badge.svg)
+
 # algorithm
 
 a few computer science algorithms
