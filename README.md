@@ -1,4 +1,4 @@
-![](https://github.com/andrysds/algorithm/workflows/.github/workflows/test.yml/badge.svg)
+![](https://github.com/andrysds/algorithm/workflows/algorithm/badge.svg)
 
 # algorithm
 
